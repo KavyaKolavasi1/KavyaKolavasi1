@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## 🚀 About Me
-Hello, my name is Kavya and I am a passionate pharmacist/software developer who is always willing to learn new skills and grow!
+# 🚀 About Me
+#### Hello, my name is Kavya and I am a passionate pharmacist/software developer who is always willing to learn new skills and grow!
 
-### My Bio
+## My Bio
 * Pursuing a Bachelor of Science in computer science at Oregon State University
 * I am a current sophmore with an expected graduation of 2025
 * With > 4 years of healthcare related experience, my interests include but are not limited to this vast arena
