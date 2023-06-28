@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**KavyaKolavasi1/KavyaKolavasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hello, my name is Kavya and I am a passionate pharmacist/software developer who is always willing to learn new skills and grow!
 
-Here are some ideas to get you started:
+### My Bio
+* Pursuing a Bachelor of Science in computer science at Oregon State University
+* I am a current sophmore with an expected graduation of 2025
+* With > 4 years of healthcare related experience, my interests include but are not limited to this vast arena
+* I am currently seeking Summer 2024 and Fall 2024 software engineer internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kolavasi-8a32bb271/)
+
+
