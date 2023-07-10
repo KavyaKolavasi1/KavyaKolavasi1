@@ -5,7 +5,7 @@
 
 ## My Bio
 * Pursuing a Bachelor of Science in computer science at Oregon State University
-* I am a current sophmore with an expected graduation of 2025
+* I am a current sophmore with an expected graduation of 2024
 * With > 4 years of healthcare related experience, my interests include but are not limited to this vast arena
 * I am currently seeking Summer 2024 and Fall 2024 software engineer internships
 
