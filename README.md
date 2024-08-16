@@ -7,7 +7,7 @@
 * Pursuing a Bachelor of Science in computer science at Oregon State University
 * I am a current junior with an expected graduation of March 2025
 * With > 4 years of healthcare related experience, my interests include but are not limited to this vast arena
-* #### PROJECTS: With the exception of Mancala, these are all personal projects that I have developed in my spare time to optimize my daily tasks and make workflow more efficient. I am a strong believer that actually practicing the skills that we have learned is the best way to develop and grow as programmer! I am a passionate developer and truly want to make work that is meaningful and has an impact! Thank you for visiting and please enjoy this page!
+* #### PROJECTS: These are all personal projects that I have developed in my spare time to optimize my daily tasks and make workflow more efficient. I am a strong believer that actually practicing the skills that we have learned is the best way to develop and grow as programmer! I am a passionate developer and truly want to make work that is meaningful and has an impact! Thank you for visiting and please enjoy this page!
 
 
 
